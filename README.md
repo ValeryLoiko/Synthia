@@ -1,12 +1,6 @@
 # Synthia
 
-![Снимок экрана 2023-07-20 в 20 41 52](https://github.com/ValeryLoiko/Synthia/assets/77268554/d86fef9a-2db4-4d89-b7bf-69e0082a0ccc)
-![Uploading Снимок экрана 2023-07-20 в 20.41.47.png…]()
-![Uploading Снимок экрана 2023-07-20 в 20.41.13.png…]()
-
-
-![Uploading Снимок экрана 2023-07-20 в 20.41.08.png…]()
-![Uploading Снимок экрана 2023-07-20 в 20.41.00.png…]()
+![Снимок экрана 2023-07-20 в 20 41 00](https://github.com/ValeryLoiko/Synthia/assets/77268554/4182608f-76b3-4cf2-a8c4-739e80e5ca1d)
 
 
 Synthia acts as a medical hub that aggregates measurement results from a variety of BLE medical devices
